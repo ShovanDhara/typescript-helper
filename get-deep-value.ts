@@ -40,3 +40,19 @@ IN case you don't know the type , its better to use generic like this
 const result = <T>(val: T) => {
     return val
 }
+
+
+/*
+Use case of union types. Here I'm casting a union types which exist in the property
+value of interface Letter 
+*/
+
+interface Letters {
+    a: number;
+    b: string;
+    c: {
+        name: string;
+    }
+}
+
+type letterValues = Letters[keyof Letters]
