@@ -1,1 +1,1 @@
-# This repo is a collections of some moderate and advanced concept of Typescript and Typescript generics
+# This repo is a collections of some moderate and advanced concepts of Typescript and Typescript generics
