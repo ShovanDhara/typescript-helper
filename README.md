@@ -1,2 +1,1 @@
 # This repo is a collections of some moderate and advanced concepts of Typescript and Typescript generics
-# Example taken from - https://www.youtube.com/watch?v=hBk4nV7q6-w&list=WL&index=5&ab_channel=VisualStudioCode
